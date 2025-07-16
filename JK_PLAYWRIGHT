@@ -1,0 +1,3 @@
+Playwright is very literal.  You must tell it exactly what to do.  You can identify page elements, say that they should be visible or what text they should contain.  Testing in Playwright is like writing a recipe and expecting the person to follow it exactly.  
+
+So, it requires some knowledge of what the HTML elements are and how to identify them.
